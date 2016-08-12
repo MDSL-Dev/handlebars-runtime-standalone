@@ -57,7 +57,7 @@
     "webpack": "^1.12.6",
     "webpack-dev-server": "^1.12.1"
   },
-  "main": "lib/index.js",
+  "main": "runtime.js",
   "bin": {
     "handlebars": "bin/handlebars"
   },
